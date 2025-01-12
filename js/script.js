@@ -32,5 +32,5 @@
 
 
 // indicare all'utente il prezzo totale del viaggio
-    console.log(result);
+    console.log(result.toFixed(2));
     
